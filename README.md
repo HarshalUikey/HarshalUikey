@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshaluikey&label=Profile%20views&color=0e75b6&style=flat" alt="harshaluikey" /> </p>
 
 
-- 🌱 I’m currently learning **ReactJS, NodeJS, REST API**
+- 🌱 I’m currently learning **REST API, AngularJS**
 
 - 💬 Ask me about **Frontend Technologies, Java, MySQL**
 
